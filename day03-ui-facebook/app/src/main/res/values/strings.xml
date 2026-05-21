@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BTVN3</string>
+    <string name="tu_n_anh">Tuấn Anh</string>
+    <string name="_314_ng_i_theo_d_i_340_ang_theo_d_i_0_b_i_vi_t">314 người theo dõi   340 đang theo dõi   0 bài viết</string>
+    <string name="trang_c_nh_n_ng_i_s_ng_t_o_n_i_dung_s_nzero_to_zero">Trang cá nhân • Người sáng tạo nội dung số\nZERO TO ZERO</string>
+    <string name="b_ng_i_u_khi_n">Bảng điều khiển</string>
+    <string name="ninh_b_nh">Ninh Bình</string>
+    <string name="c_th_n">Độc thân</string>
+    <string name="h_n_i">Hà Nội</string>
+    <string name="reels">Reels</string>
+    <string name="nh">Ảnh</string>
+    <string name="t_t_c">Tất cả</string>
+    <string name="th_ng_tin_c_nh_n">Thông tin cá nhân</string>
+    <string name="li_n_k_t">Liên kết</string>
+</resources>

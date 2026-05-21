@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BTVN04</string>
+    <string name="txt_detail">Detail</string>
+    <string name="txt_the_aston_vill_hotel">The Aston Vill Hotel</string>
+    <string name="txt_night">/night</string>
+    <string name="txt_alice_springs_nt_0870_australia">Alice Springs NT 0870, Australia</string>
+    <string name="aston_hotel_alice_springs_nt_0870_australia_is_a_modern_hotel_elegant_5_star_hotel_overlooking_the_sea_perfect_for_a_romantic_charming_read_more">Aston Hotel, Alice Springs NT 0870, Australia is a modern hotel. elegant 5 star hotel overlooking the sea. perfect for a romantic, charming Read More...</string>
+    <string name="free_wifi">Free wifi</string>
+    <string name="free_breakfast">Free Breakfast</string>
+    <string name="_5_0">5.0</string>
+    <string name="_200_7">$200.7</string>
+    <string name="preview">Preview</string>
+    <string name="booking_now">Booking Now</string>
+    <string name="description">Description</string>
+</resources>
