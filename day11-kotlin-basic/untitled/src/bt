@@ -1,0 +1,12 @@
+Xây class `BankAccount` với yêu cầu:
+
+1. Constructor: `owner`, `initialBalance`.
+2. Nếu `initialBalance  thì đưa về `0.0`.
+3. `deposit(amount)` trả về `Boolean`.
+4. `withdraw(amount)` trả về `Boolean`.
+5. `getBalance()` và `statement()`.
+
+Rule bắt buộc
+1. Không cho amount <= 0.
+2. Không cho rút quá số dư.
+3. Không expose setter cho balance.
